@@ -5,6 +5,7 @@
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | |
+| 2. **Hands-On Unsupervised Learning Using Python** | |
 
 
 
