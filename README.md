@@ -6,6 +6,7 @@
 | ----- | -----|
 | 1. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | |
 | 2. **Hands-On Unsupervised Learning Using Python** | |
+| 3. **Hands-On Gradient Boosting with XGBoost and scikit-learn** | |
 
 
 
@@ -14,3 +15,4 @@
 | 1. [**Regression and Regularization**](https://github.com/andysingal/machining-learning/blob/main/Training_Models_Regularization.ipynb) | :white_check_mark: |
 | 2. [**SVM**](https://github.com/andysingal/machining-learning/blob/main/SVM.ipynb) | :white_check_mark: |
 | 3. [**Decision Tree**](https://github.com/andysingal/machining-learning/blob/main/Decision_Tree.ipynb) | :white_check_mark: |
+| 2. [**XGBoost**](https://github.com/andysingal/xgboost/blob/main/xgboost.ipynb) | :white_check_mark: |
