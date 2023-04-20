@@ -8,6 +8,7 @@
 | 2. **Hands-On Unsupervised Learning Using Python** | |
 | 3. **Hands-On Gradient Boosting with XGBoost and scikit-learn** | |
 | 4. **Machine Learning with PyTorch and Scikit-Learn** | |
+| 5. **Feature Engineering Bookcamp** | |
 
 
 
