@@ -28,3 +28,5 @@
 | Projects | Status of Completion |
 | ----- | -----|
 | 1. [**California House Prices**](https://github.com/andysingal/CaliforniaHousing_Prices) | :white_check_mark: |
+| 2. [**Mobile Price Classification**](https://github.com/andysingal/mobile-classification) | :white_check_mark: |
+| 3. [**Bank Churn**](https://github.com/andysingal/Churn-classification) | :white_check_mark: |
