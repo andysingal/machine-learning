@@ -23,3 +23,8 @@
 | 5. [**Ensemble_Learning_and_Random_Forests**](https://github.com/andysingal/machine-learning/blob/main/Ensemble_Learning_and_Random_Forests.ipynb) | :white_check_mark: |
 | 6. [**Dimension Reduction**](https://github.com/andysingal/machine-learning/tree/main/Dimension_Reduction) |:white_check_mark: |
 | 7. [**Feature Engineering**](https://github.com/andysingal/machine-learning/tree/main/Feature_Engineering) ||
+
+
+| Projects | Status of Completion |
+| ----- | -----|
+| 1. [**California House Prices**](https://github.com/andysingal/CaliforniaHousing_Prices) | :white_check_mark: |
