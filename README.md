@@ -11,6 +11,7 @@
 | 5. **Feature Engineering Bookcamp** | |
 | 6. **Deep Learning with Python** | |
 | 7. **Python Machine Learning - Third Edition** | |
+| 8. **Automated Machine Learning** | |
 
 
 
