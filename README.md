@@ -10,6 +10,7 @@
 | 4. **Machine Learning with PyTorch and Scikit-Learn** | |
 | 5. **Feature Engineering Bookcamp** | |
 | 6. **Deep Learning with Python** | |
+| 7. **Python Machine Learning - Third Edition** | |
 
 
 
