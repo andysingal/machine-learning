@@ -11,7 +11,7 @@
 | 5. **Feature Engineering Bookcamp** | |
 | 6. **Deep Learning with Python** | |
 | 7. **Python Machine Learning - Third Edition** | |
-| 8. [**Automated Machine Learning**](https://github.com/andysingal/machine-learning/blob/main/AutoML_Book.pdf)|  |
+| 8. [**Automated Machine Learning**](https://github.com/andysingal/machine-learning/blob/main/Books/AutoML_Book.pdf)|  |
 
 
 
